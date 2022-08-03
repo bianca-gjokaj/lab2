@@ -1,0 +1,18 @@
+.post-container {
+  border-bottom: 1px solid lightgrey;
+}
+
+.delete-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+h2 {
+  font-family: "Dosis", sans-serif;
+  size: 24;
+}
+
+p {
+  font-family: "Dosis", sans-serif;
+}
